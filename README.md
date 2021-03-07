@@ -5,7 +5,7 @@ Iniciei um curso de desenvolvimento web na Labenu e estou dedicando 110% de vont
 
   ## 🚀 1ª Semana de curso.
 
-Apesar de simples, o site executado com 7 dias de curso me surpreendeu bastatante. 
+Apesar de simples, o site executado com 7 dias de curso me surpreendeu bastante. 
 Foi o meu primeiro contato com as linguagens de marcação : html e css.
 
 ## 📦 Desenvolvimento
