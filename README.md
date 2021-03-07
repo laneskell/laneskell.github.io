@@ -3,7 +3,7 @@
 Esse foi meu primeiro projeto web, uma pagina simulando um portifólio.
 Iniciei um curso de desenvolvimento web na Labenu e estou dedicando 110% de vontade nesse desafio.
 
-## 🚀 14 dias de curso.
+  ## 🚀 1ª Semana de curso.
 
 Apesar de simples, o site executado com 14 dias de curso me surpreendeu bastatante. 
 Foi o meu primeiro contato com as linguagens de marcação : html e css.
